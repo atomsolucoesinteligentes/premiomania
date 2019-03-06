@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c1dded6aaadc017f6fb91ae477458588",
+    "packages": [
+        {
+            "name": "atomdev/odinfmk",
+            "version": "1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/atomsolucoesinteligentes/odinfmk.git",
+                "reference": "1725dc8ed6283d2fad2e031b8636dbea22ea702d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/atomsolucoesinteligentes/odinfmk/zipball/1725dc8ed6283d2fad2e031b8636dbea22ea702d",
+                "reference": "1725dc8ed6283d2fad2e031b8636dbea22ea702d",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Odin\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Edney Mesquita",
+                    "email": "edneyphp@outlook.com"
+                }
+            ],
+            "description": "Simple PHP Framework",
+            "time": "2019-03-05T13:51:22+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,0 +1,17 @@
+{
+    "name": "atomdev1/premiomania",
+    "authors": [
+        {
+            "name": "Edney Mesquita",
+            "email": "edneyphp@outlook.com"
+        }
+    ],
+    "require": {
+        "atomdev/odinfmk": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
